@@ -1,0 +1,11 @@
+name,accounttype,chargecode,status,code
+AA,Type1,1,Processing,1XX
+AB,Type3,2,Onboarded,2XZ
+AC,Type2,3,Onboarded,2FD
+AD,Type1,4,Onboarded,1sd
+AE,Type2,1,Processing,cds1
+AF,Type3,3,Processing,as1
+AG,Type1,3,Processing,sa1
+AH,Type3,2,Processing,CSA1
+AJ,Type2,2,Onboarded,CSC1
+AK,Type1,3,Onboarded,VdS1
